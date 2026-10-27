@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Notch",
+    "username": "Catalinareces",
     "password": "",
     "type": "offline"
   },
@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 3,
       "messages": [
         "Idk what to do on this server",
         "Subscribe to Compy_Master on YouTube",
